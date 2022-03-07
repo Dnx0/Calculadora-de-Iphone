@@ -1,6 +1,6 @@
 <script>
 //Titulo
-document.write ("<strong>Divisor de Iphone 1.0</strong>")
+document.write ("<h1>Divisor de Iphone 1.0</h1>")
 
 //Entrada de dados
 let iphone = prompt (" Quantos Iphone você tem?");
