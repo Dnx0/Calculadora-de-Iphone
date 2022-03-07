@@ -1,3 +1,4 @@
+<script>
 //Titulo
 document.write ("<strong>Divisor de Iphone 1.0</strong>")
 
@@ -13,3 +14,4 @@ let resto =  iphone % pessoas ^ 0 ;
 document.write("<br> O total de iphone 📱 é " + iphone)
 document.write ("<br> O total de pessoas 👤 é " + pessoas)
 document.write (" <br> O total de iphone 🍎 por pessoa é " + (total) + " e sobrou " + (resto) + " para você ");
+</script>
